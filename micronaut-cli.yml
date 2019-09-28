@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: hr.management
+---
+testFramework: junit
+sourceLanguage: java
